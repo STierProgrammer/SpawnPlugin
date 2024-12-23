@@ -1,0 +1,8 @@
+name: SpawnPlugin
+version: '1.0-SNAPSHOT'
+main: org.stierprogrammer.spawnPlugin.SpawnPlugin
+api-version: '1.21'
+
+commands:
+  setspawn:
+    description: Sets spawn
